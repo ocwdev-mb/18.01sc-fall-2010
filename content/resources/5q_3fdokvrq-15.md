@@ -1,0 +1,12 @@
+---
+content_type: resource
+description: ''
+file: /courses/18-01sc-single-variable-calculus-fall-2010/4a104169351539023e82b0ae60cac6be_5q_3FDOkVRQ.pdf
+file_type: application/pdf
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+resourcetype: Document
+title: 3play pdf file
+uid: 4a104169-3515-3902-3e82-b0ae60cac6be
+---
